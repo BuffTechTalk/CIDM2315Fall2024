@@ -6,5 +6,6 @@ class Program
 
         int b = Convert.ToInt16(Console.ReadLine());
         Console.WriteLine("The value of b: "+ b);
+        // new code ...
     }
 }
